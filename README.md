@@ -1,3 +1,2 @@
 # yolo-test 
-Hello!
-hi!
+Hello! 
